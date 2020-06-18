@@ -25,6 +25,12 @@ yarn-error.log*
 yarn.lock
 
 # Editor directories and files
+.vscode
 .idea
 
+# Docs dist directory
 /docs/.vuepress/dist
+
+
+# 隐藏私密信息
+/docs/.vuepress/config/secret.js

@@ -1,4 +1,6 @@
 const moment = require("moment")
+const { clientId, clientSecret } = require("./secret")
+
 moment.locale("zh-cn")
 
 module.exports = {
@@ -19,8 +21,8 @@ module.exports = {
     // 其他的 Vssue 配置
     owner: 'shenghui716',
     repo: 'FE-Notes',
-    clientId: '548bf44c720b0d3930c3',
-    clientSecret: 'b689ed88ae54d8a65ebca25c42fa4f3554829a13',
+    clientId: clientId,
+    clientSecret: clientSecret,
     autoCreateIssue: true
   },
   '@vuepress/back-to-top': true

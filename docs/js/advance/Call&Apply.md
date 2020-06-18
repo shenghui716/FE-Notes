@@ -1,4 +1,4 @@
-# JavaScript 深入之 call 和 apply 模拟实现
+# JavaScript 进阶之call和apply模拟实现
 
 ## call 的模拟实现
 

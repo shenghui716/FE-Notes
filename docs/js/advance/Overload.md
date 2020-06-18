@@ -1,4 +1,4 @@
-# JavaScript 深入之函数重载
+# JavaScript 进阶之函数重载
 
 ## 概念
 

@@ -1,4 +1,4 @@
-# JavaScript 深入之 bind 的模拟实现
+# JavaScript 进阶之bind的模拟实现
 
 一句话介绍 bind:
 

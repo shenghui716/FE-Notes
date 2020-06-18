@@ -1,4 +1,4 @@
-# JavaScript 深入之 new 的模拟实现
+# JavaScript 进阶之new的模拟实现
 
 ## 前言
 

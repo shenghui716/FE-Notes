@@ -1,4 +1,4 @@
-# JavaScritp 深入之内存空间
+# JavaScritp 进阶之内存空间
 
 ![变量对象与堆内存](~@imgs/javascript-memory-space1.png)
 

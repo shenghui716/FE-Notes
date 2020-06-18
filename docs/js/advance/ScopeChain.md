@@ -1,4 +1,4 @@
-# JavaScript 深入之作用域链
+# JavaScript 进阶之作用域链
 
 ## 前言
 

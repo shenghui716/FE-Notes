@@ -1,4 +1,4 @@
-# JavaScript 深入之词法作用域和动态作用域
+# JavaScript 进阶之作用域
 
 ## 作用域
 

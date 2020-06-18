@@ -1,4 +1,4 @@
-# JavaScript 深入之变量对象
+# JavaScript 进阶之变量对象
 
 ## 前言
 

@@ -1,7 +1,8 @@
 # JavaScript
 
 ## JS 基础篇
-* [JavaScript 基础之变量与数据类型](base/DataType)
+* [JavaScript 基础之变量](base/Variable)
+* [JavaScript 基础之数据类型](base/DataType)
 * [JavaScript 基础之运算符](base/Operator)
 * [JavaScript 基础之逻辑结构](base/LogicalStructure)
 * [JavaScript 基础之数组](base/Array)
@@ -34,3 +35,5 @@
 * [JavaScript 进阶之事件循环机制](advance/EventLoop)
 
 ## JS 专题篇
+* [JavaScript 专题之数组去重](advance/ArrayDuplicateRemoval)
+* [JavaScript 专题之防抖节流](advance/Debounce&throttle)

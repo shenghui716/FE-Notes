@@ -1,4 +1,4 @@
-# JavaScript 深入之 this
+# JavaScript 进阶之this
 
 ## 涵义
 
@@ -911,7 +911,7 @@ a // [1, 2, 3]
 
 如果再进一步，将 `Function.prototype.call` 方法绑定到 `Function.prototype.bind` 对象，就意味着 `bind` 的调用形式也可以被改写。
 
-```javascriptl
+```javascript
 function f() {
     console.log(this.v);
 }

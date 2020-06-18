@@ -1,4 +1,4 @@
-# JavaScript 基础之ES6常用基础
+# JavaScript 基础之ES6基础
 
 在学习之前，推荐大家使用 babel 官方提供的在线编译工具，编写自己的 demo，会在右侧实时显示出编译之后的代码，以供参考学习：http://babeljs.io/repl/
 

@@ -1,11 +1,12 @@
 {
-  "name": "FE-Notes",
+  "name": "fe-notes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/shenghui716/FE-Notes/issues"
   },
-  "homepage": "https://github.com/shenghui716/FE-Notes#readme"
+  "homepage": "https://github.com/shenghui716/FE-Notes#readme",
+  "dependencies": {
+    "@vssue/api-github-v4": "^1.4.0",
+    "@vssue/vuepress-plugin-vssue": "^1.4.6",
+    "@vuepress/plugin-pwa": "^1.5.2",
+    "moment": "^2.26.0",
+    "vue-class-component": "^7.2.3",
+    "vuepress": "^1.5.2"
+  }
 }

@@ -9,8 +9,18 @@ module.exports = [
       { text: "React篇", link: "/frame/react/" },
     ],
   },
+  {
+    text: "工程化",
+    items: [
+      { text: "Git", link: "/engineering/git/" },
+      { text: "Babel", link: "/engineering/babel/" },
+      { text: "ESLint", link: "/engineering/eslint/" },
+      { text: "Webpack", link: "/engineering/webpack/" },
+    ],
+  },
   { text: "浏览器", link: "/browser/" },
   { text: "网络", link: "/network/" },
+  { text: "安全", link: "/security/" },
   { text: "算法", link: "/algorithm/" },
   { text: "面试", link: "/interview/" },
   {
